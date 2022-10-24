@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Jiangmen-Maritime Silk Road" ] },
+    "summary": { "en": [ "The Maritime Silk Road, also known as the Road of Ceramics and the Road of Incense and Medicine, is an extension of the Land Silk Road." ] },
+    "items": [
+    ]
+}
