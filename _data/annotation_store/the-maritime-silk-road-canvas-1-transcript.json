@@ -1,0 +1,2624 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sunyanling123.github.io/silk-road/annotations/the-maritime-silk-road-canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "海上丝绸之路发展历程。",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "在秦朝以来两千余年的发展历程中，海上丝绸之路发生很大变化。",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4,12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "总体来说，大致可以分为五个发展阶段。",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "12,18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "一、秦汉时期——形成期。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18,22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "秦始皇统一岭南后发展很快，当时番禺地区已经拥有相当规模技术水平很高的造船业。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22,34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "南越王墓出土的具有波斯风格的银盒、",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "34,39"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "非洲原支象牙等珍贵文物，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "43,46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "见证了当时以番禺都会为中心的海上丝绸之路贸易实况。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46,54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "西汉史书明确记载海上丝绸之路。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "54,60"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "公元前111年，汉朝平南越，汉武帝派使者前往南海地区。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60,70"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "《汉书·地理志》记载，其航线为：从徐闻、合浦出发，经南海进入马来半岛、暹罗湾、孟加拉湾，到达印度半岛南部的黄支国和已程不国。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "70,89"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "这是目前可见的有关海上丝绸之路最早的文字记载。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "89,96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "这样从中国广东番禺徐闻、广西、合浦等港口起航西行。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "96,104"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "与从地中海、波斯湾、印度洋沿海港口出发往东航行的海上航线，就在印度洋上相遇并实现了对接，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "104,116"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "标志着贯通东西方的海上丝绸之路已经打通，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "116,122"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "广东成为海上丝绸之路的始发地。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "122,127"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "此后，远至印度、罗马帝国的外国商人、使节，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "127,132"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "都沿着这条航路，往来沿海地区，进入中国内地。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "形成期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "132,139"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "二、魏晋南北朝——发展期",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "139,143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "这一时期南方政权因为与北方对峙，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "143,149"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "更注重向海洋发展，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "149,152"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "造船、航海技术的进步以及航海经验的积累，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "152,157"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "也为海上丝绸之路发展提供良好条件。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "157,162"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "魏晋以后，开辟了一条沿海航线，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "162,167"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "这条航线自广州启航，经海南岛东面海域，直穿西沙群岛海面抵达南海诸国，再穿过马六甲海峡，直驶印度洋、红海、波斯湾。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "167,183"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "这条航线穿越印度洋后，向西延伸到了阿拉伯半岛。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "183,190"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "那时，中国南方与斯里兰卡之间已经保持着比较密切的官方联系。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "190,197"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "不少前往印度求法的中国僧人也取道海路。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "197,203"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "东晋高僧法显沿陆路到印度，由海路返回中国。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "发展期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "203,211"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "三、隋唐时期——繁荣期",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "211,215"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "隋唐时期，中国经济重心南移，中国与西方的交通以陆路为主转向以海路为主，海上丝绸之路进入大发展时期。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "215,231"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "广州成为唐朝最大的海外贸易中心，朝廷设立市舶司，专门管理海外贸易。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "231,242"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "唐朝的“广州通海夷道”是最重要的海上交通航线，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "242,248"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "具体走向为：从广州启航，沿东南方向航行至屯门山，然后西行，经海南岛东部海面，越过西沙群岛，穿过马六甲海峡，进入印度洋；",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "248,267"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "抵印度南部后，沿半岛西岸北上，再沿海岸线西行直达波斯湾，从波斯湾沿阿拉伯半岛西南行可到非洲东岸。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "267,281"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "这条海路是八世纪至九世纪间世界上最长的远洋航线。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "281,290"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "在南海，东南亚诸国基本上进入以广州为中心的南海海洋贸易圈内。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "290,298"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "考古发现显示，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "298,300"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "唐代广州极可能已开辟直航菲律宾的航线。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300,305"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "唐朝陶瓷开始成为主要出口商品，湖南长沙窑、河南巩县窑、河北邢窑、浙江越窑、广东潮州窑等地产品远销世界各地，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "305,322"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "因而海上丝绸之路又被称为陶瓷之路。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "繁荣期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "322,327"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "四、宋元时期——鼎盛期",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "327,331"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "宋代的造船技术和航海技术明显提高，指南针广泛应用于航海，中国商船的远航能力大为加强。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "331,344"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "更重要的是宋代社会经济发展远超前代，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "344,349"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "私人海上贸易在政府鼓励下得到极大发展。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "349,355"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "元朝在经济上采用重商主义政策，鼓励海外贸易，海上丝绸之路发展进入鼎盛阶段。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "355,365"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "据陈大震《南海志》记录，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "365,369"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "宋元时期与中国直接或间接有交往的国家或地区多达140多个，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "369,377"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "从地中海西部的西班牙南部，经过地中海，非洲东部，穿过印度洋地区各国，再到中南半岛和南海诸岛，直至中国东南沿海各地，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "377,392"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "都属海上丝绸之路所编织的海洋贸易网络。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "392,398"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "宋代不断颁布和修订海外贸易管理措施。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "398,404"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "其中最重要的举措有两个：",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "404,407"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "一是完善市舶司机构建制，并向全国推广。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "407,413"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "二是颁布了中国历史上第一部海洋贸易管理条例——《广州市舶条》，并成为宋代贸易管理的制度范本。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "413,425"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "宋元两朝海外私商贸易得到极大发展。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "425,430"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "中国海商只要在官府挂上号，就可以自由出海，商品交易种类也因此发生变化。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "430,440"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "这在中外贸易史上是一个重要转折。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "440,444"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "据不完全记载，元代进口“舶货”有200种以上，包括香料、珍宝、纺织品、皮货等；",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "444,456"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "出口货物主要是丝绸、瓷器、金属制品、日常用品、农产品等。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "456,465"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "由于香料和药物在进口货物中占较大份额，因而有学者称海上丝绸之路为香药之路。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "鼎盛期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "465,477"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "五、明清时期——衰落期",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "477,481"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "十五至十八世纪是人类历史上发生重大变革的时代。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "481,488"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "欧洲人相继进行全球性海上扩张活动，特别是地理大发现，开启了大航海时代，开辟了世界性海洋贸易新时代。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "488,501"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "与古代海上丝绸之路相比较，明清时期海上丝绸之路发生了根本性的变化。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "501,511"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "明朝建立之初，即采取海禁政策，长期没有解除。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "511,517"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "清朝初年，实施严厉海禁与迁界，限制中外正常交往。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "517,524"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "康熙二十五年，广东设置十三行。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "524,529"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "这些行商依照规定专营对外贸易，简称洋行，习惯上称为十三行。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "529,538"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "乾隆二十二年以后，禁止欧美商人前往福建、浙江贸易，只保留广州“一口通商”。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "538,548"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "经过西方人的航海扩张，从西欧出发有两条航线可以直通广州：",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "548,557"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "一条是沿非洲西海岸南下，绕过非洲南端好望角，横渡印度洋，经苏门答腊岛西南部海面穿越巽他海峡，北上进入南海，到达澳门和广州，或者绕道马六甲海峡，从南海到达广州。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "557,580"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "另一条是横渡大西洋，从美洲绕过麦哲伦海峡，横渡太平洋，航行至菲律宾群岛，再从菲律宾出发，直航到广东和东南沿海其他地区。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "580,598"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "后来美国加入对华贸易，美国船舶又开辟了新的太平洋航线。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "598,607"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "长期活跃在东方海域的亚洲海商，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "607,611"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "在“仗剑经商”的西方商人的竞逐下纷纷退出历史舞台，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "611,617"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "或者沦为次要的海商群体；",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "617,621"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "中国商人在东亚海域国际贸易领域里依然占据重要地位，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "621,628"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "但已很少越过马六甲海峡与印度、阿拉伯商人做生意。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "628,634"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "西欧商人的海上扩张，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "634,637"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "改变了传统海上丝绸之路以和平贸易为基调的特性，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "637,643"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "商业活动常常伴随着战争硝烟和武装抢劫。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "643,649"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "十六至十八世纪，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "649,651"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "西方国家采取各种措施扩大与中国的贸易，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "651,656"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "中国对外贸易的主要对象由东南亚国家转向欧美国家，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "656.0,662.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "进出口商品结构也发生很大变化。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "662.0,668.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "中国出口货物主要是丝绸、茶叶、瓷器，还有土布、糖、冰糖、麝香、大黄、鬼桂子、姜黄、朱砂、樟脑、明矾、铜、水银、锌、铁锅等。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "668.0,689.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "从欧美诸国输入的是毛织品和棉花，",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "689.0,695.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-maritime-silk-road-canvas-1-transcript-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "此外还有银元、皮货、香料、药材、鸦片、玻璃器皿、玻璃镜、自鸣钟等。",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "衰落期",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "695.0,705.0"
+        }
+      }
+    }
+  ]
+}

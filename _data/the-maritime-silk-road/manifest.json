@@ -23,6 +23,14 @@
         "id": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
         "type": "Canvas",
         "duration": 705.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sunyanling123.github.io/silk-road/annotations/the-maritime-silk-road-canvas-1-the-maritime-silk-road-canvas-1-transcript.json",
+            "label": "Transcript"
+          }
+        ],
         "items": [
           {
             "id": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/paintings",
