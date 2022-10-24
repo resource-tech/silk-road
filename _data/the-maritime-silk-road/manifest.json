@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "The Maritime Silk Road" ] },
+    "homepage": [
+      {
+        "id": "http://jiangmen.bmsaas.site/navigation.html",
+        "type": "Text",
+        "label": { "en": [ "The Maritime Silk Road" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "http://jiangmen.bmsaas.site/",
+        "type": "Agent",
+        "label": { "en": [ "Jiangmen City Library" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 705.0,
+        "items": [
+          {
+            "id": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia804703.us.archive.org/22/items/the-maritime-silk-road/dbc69f2f9d473717b474cb8c89bc6930.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 705.0
+                },
+                "target": "https://sunyanling123.github.io/silk-road/the-maritime-silk-road/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
